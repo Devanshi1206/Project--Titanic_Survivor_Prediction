@@ -24,7 +24,9 @@ This Notebook shows:
 ## Data Analysis:
 
 Supervised Machine learning Techniques: Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Gradient Boosting, K-nearest neighbours, Neural Network.
+
 Only 3 models (Decision Tree, Random Forest, Gradient Boosting) out of 6 models provide 100% accuracy (i.e. 1.0)
+
 So, I used the Random Forest Classifier to predict all the survivors correctly.
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
