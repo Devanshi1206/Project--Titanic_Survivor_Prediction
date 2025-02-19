@@ -1,12 +1,28 @@
 # Titanic Survivors Prediction
 
+## Executive Summary: 
+
+Used Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
+
 - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-bharatintern-datascienceintern-activity-7114632007631941632-HiP3?utm_source=share&utm_medium=member_desktop)
+
+## Business Problem:
+
+To Predicting the survival of the passenger on Titanic Disaster Dataset.
+
+## Methodology:
 
 <img src="https://static1.squarespace.com/static/5006453fe4b09ef2252ba068/5095eabce4b06cb305058603/5095eabce4b02d37bef4c24c/1352002236895/100_anniversary_titanic_sinking_by_esai8mellows-d4xbme8.jpg">
 
-Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
+1. Importing Data - Utilizing NumPy and pandas.
+2. Data Visualisation - Used Box Plot, Count Plot, Histogram, HeatMap, etc to represent the data.
+3. Machine Learning Modeling - Calculating cosine similarity.
 
-Skills:
+### Data Analysis:
+
+Used the NLP to predict the personalised movie recommendation.
+
+## Skills:
 
     Python3
     Numpy
@@ -15,20 +31,19 @@ Skills:
     Machine Learning Algorithm
     Classification Algorithms
     Random Forest
-    
-This Notebook shows:
 
-    Data Handling
-    Importing Data with Pandas
-    Cleaning Data
-    Data Visualisation
-
-## Data Analysis:
+## Result and Business Recommendation:
 
 Supervised Machine learning Techniques: Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, Gradient Boosting, K-nearest neighbours, Neural Network.
 
 Only 3 models (Decision Tree, Random Forest, Gradient Boosting) out of 6 models provide 100% accuracy (i.e. 1.0)
 
 So, I used the Random Forest Classifier to predict all the survivors correctly.
+
+## Next Steps:
+
+1. Making a Webpage to implement this model.
+2. Msking same modle using Azure.
+
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
